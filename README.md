@@ -11,3 +11,9 @@
 This is an artificial intelligence application developed based on the concept of **object detection**. Analyze basketball pitches by examining data collected in object detection.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brunoluizmendes)
+
+First thing you need to do is install dependencies:
+```
+pip install -r requirements.txt
+```
+
