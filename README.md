@@ -14,9 +14,8 @@
 
 This is an artificial intelligence application developed based on the concept of **object detection**. Analyze basketball pitches by examining data collected in object detection.
 
-# betting predictions
-
-tool that helps you when betting on NBA and NFL
+## betting predictions
+### tool that helps you when betting on NBA and NFL
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brunoluizmendes)
