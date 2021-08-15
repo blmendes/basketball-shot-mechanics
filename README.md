@@ -5,7 +5,7 @@
     
 </p>
 
-# throw the ball 
+# Throw the ball 
 
 
 ## My Basketball Shots AI
