@@ -24,8 +24,11 @@ First thing you need to do is install dependencies:
 ```
 pip install -r requirements.txt
 ```
+Get a copy of this project by simply running the git clone command.
+```
+$ git clone https://github.com/blmendes/throw-the-ball.git
+```
 
 [![GitHub license](https://img.shields.io/github/license/blmendes/throw-the-ball)](https://github.com/blmendes/throw-the-ball/blob/main/LICENSE)
 
-Get a copy
-Get a copy of this project by simply running the git clone command.
+
