@@ -11,9 +11,6 @@
 ## My Basketball Shots AI
 ### 🏀 Analyze and improve your basketball shots with machine learning
 
-
-$ git clone https://github.com/blmendes/throw-the-ball.git
-```
 <p align=center>
     <img src="./static/img/curry_pose.gif" width="800" height="450">
 </p>
@@ -32,6 +29,8 @@ First thing you need to do is install dependencies:
 pip install -r requirements.txt
 ```
 Get a copy of this project by simply running the git clone command.
+```
+$ git clone https://github.com/blmendes/throw-the-ball.git
 ```
 
 
