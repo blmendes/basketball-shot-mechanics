@@ -18,7 +18,7 @@ This is an artificial intelligence application developed based on the concept of
 ### tool that helps you when betting on NBA and NFL
 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brunoluizmendes)
+
 
 First thing you need to do is install dependencies:
 ```
@@ -31,4 +31,9 @@ $ git clone https://github.com/blmendes/throw-the-ball.git
 
 [![GitHub license](https://img.shields.io/github/license/blmendes/throw-the-ball)](https://github.com/blmendes/throw-the-ball/blob/main/LICENSE)
 
+<br>
+<br>
 
+_Buy Me a Coffee is the best way for creators n  to accept support and membership from their fans._
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brunoluizmendes)
