@@ -12,6 +12,13 @@
 ### 🏀 Analyze and improve your basketball shots with machine learning
 
 
+$ git clone https://github.com/blmendes/throw-the-ball.git
+```
+<p align=center>
+    <img src="./static/img/curry_pose.gif" width="800" height="450">
+</p>
+
+
 This is an artificial intelligence application developed based on the concept of **object detection**. Analyze basketball pitches by examining data collected in object detection.
 
 ## betting predictions
@@ -26,8 +33,7 @@ pip install -r requirements.txt
 ```
 Get a copy of this project by simply running the git clone command.
 ```
-$ git clone https://github.com/blmendes/throw-the-ball.git
-```
+
 
 <br>
 <br>
