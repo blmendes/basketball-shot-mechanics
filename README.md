@@ -26,3 +26,6 @@ pip install -r requirements.txt
 ```
 
 [![GitHub license](https://img.shields.io/github/license/blmendes/throw-the-ball)](https://github.com/blmendes/throw-the-ball/blob/main/LICENSE)
+
+Get a copy
+Get a copy of this project by simply running the git clone command.
