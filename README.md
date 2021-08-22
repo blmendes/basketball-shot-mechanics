@@ -29,8 +29,6 @@ Get a copy of this project by simply running the git clone command.
 $ git clone https://github.com/blmendes/throw-the-ball.git
 ```
 
-[![GitHub license](https://img.shields.io/github/license/blmendes/throw-the-ball)](https://github.com/blmendes/throw-the-ball/blob/main/LICENSE)
-
 <br>
 <br>
 
