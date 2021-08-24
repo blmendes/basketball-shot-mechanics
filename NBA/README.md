@@ -11,8 +11,14 @@ One type of field goal is called a slam dunk. This occurs when a player jumps ne
 * Shaquille O'Neal has the record for most seasons (10) with the best field goal percentage, and Artis Gilmore has the record for highest career field goal percentage (59.9%).
 * Steve Nash was one of the greatest all-around shooters in the history of the NBA, holding the record for 50–40–90 seasons, a mark of all-around shooting for two-point field goals, three-point field goals, and free throws. Nash recorded four of the eleven 50–40–90 seasons in NBA history.
 
-### Kobe Career FGA
+### Kobe Bryant Career FGA
 
 <p align=center>
     <img src="../static/imgs/kobe_bryant_carrer_fga.png" width="558" height="560.5">
+</p>
+
+### Lebron James Career FGA
+
+<p align=center>
+    <img src="../static/imgs/lebron_james_carrer_fga.png" width="558" height="560.5">
 </p>
