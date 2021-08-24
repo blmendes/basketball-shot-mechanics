@@ -28,10 +28,20 @@ First thing you need to do is install dependencies:
 ```
 pip install -r requirements.txt
 ```
+
+> Please note that you need a CPU to run the video analysis, CUDA device is required to run OpenPose.
+
 Get a copy of this project by simply running the git clone command.
 ```
 $ git clone https://github.com/blmendes/throw-the-ball.git
 ```
+
+
+# Structure | Architecture
+
+<p align=center>
+    <img src="./static/img/index_page.PNG" width="551.1" height="278.7">
+</p>
 
 
 <br>
