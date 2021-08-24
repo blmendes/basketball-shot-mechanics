@@ -14,5 +14,5 @@ One type of field goal is called a slam dunk. This occurs when a player jumps ne
 ### Kobe Career FGA
 
 <p align=center>
-    <img src="./static/imgs/kobe_bryant_carrer_fga.png" width="558" height="560.5">
+    <img src="../static/imgs/kobe_bryant_carrer_fga.png" width="558" height="560.5">
 </p>
