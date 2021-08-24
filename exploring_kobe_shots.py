@@ -3,15 +3,15 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df_full = pd.read_csv('../input/data.csv')
-df_sample = pd.read_csv('../input/sample_submission.csv')
+df_full = pd.read_csv('/Users/mac/Documents/GitHub/my_shots/throw-the-ball/data/kobe/data.csv')
+df_sample = pd.read_csv('/Users/mac/Documents/GitHub/my_shots/throw-the-ball/data/kobe/sample_submission.csv')
 
-print(df_full.head())
-print('\n')
+print('\n Full dataset \n', df_full.head())
+print('\n Sample Submission \n')
 print(df_sample.head())
 
 df_train = df_full[df_full['shot_made_flag'].notnull()]
-print('full dataset size:', df_full.shape)
+print('\nfull dataset size:', df_full.shape)
 print('train dataset size:', df_train.shape)
 
 # creating a basic scatter plot to show the data
@@ -22,9 +22,10 @@ plt.scatter(df_train['loc_x'],df_train['loc_y'])
 
 plt.xlim(300,-300)
 plt.ylim(-100,500)
-plt.show()
+# plt.show()
 
-# time to add basketball court lines for context
+
+# Basketball court lines 
 from matplotlib.patches import Circle, Rectangle, Arc
 
 def draw_court(ax=None, color='black', lw=2, outer_lines=False):
@@ -95,9 +96,9 @@ draw_court(outer_lines=True)
 # and now draw the shots
 plt.ylim(-100,500)
 plt.xlim(300,-300)
-plt.show()
+# plt.show()
 
-#  heatmap of his FGA since so many of the dots are overlapping
+#  heatmap 
 cmap=plt.cm.YlOrRd_r 
 joint_shot_chart = sns.jointplot(df_train['loc_x'],df_train['loc_y'], stat_func=None,
                                  kind='kde', space=0, color=cmap(0.1),
@@ -105,8 +106,8 @@ joint_shot_chart = sns.jointplot(df_train['loc_x'],df_train['loc_y'], stat_func=
 
 joint_shot_chart.fig.set_size_inches(12,11)
 
+
 # A joint plot has 3 Axes, the first one called ax_joint 
-# is the one we want to draw our court onto and adjust some other settings
 ax = joint_shot_chart.ax_joint
 draw_court(ax)
 
