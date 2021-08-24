@@ -18,12 +18,6 @@
 
 This is an artificial intelligence application developed based on the concept of **object detection**. Analyze basketball pitches by examining data collected in object detection.
 
-## betting predictions
-### tool that helps you when betting on NBA and NFL
-
-
-
-
 First thing you need to do is install dependencies:
 ```
 pip install -r requirements.txt
@@ -37,12 +31,42 @@ $ git clone https://github.com/blmendes/throw-the-ball.git
 ```
 
 
-# Structure | Architecture
+## Betting predictions
+Tool that helps you when betting on NBA and NFL
+
+## Shooting pose
+Analyze basketball shots by digging into the data collected from object detection.
+
+
+## Structure | Architecture
 
 <p align=center>
     <img src="./static/img/index_page.PNG" width="551.1" height="278.7">
 </p>
 
+### Detection model
+
+## Detection model
+
+<p align=center>
+    <img src="https://jkjung-avt.github.io/assets/2018-03-30-making-frcn-faster/FRCN_architecture.png" width="558" height="560.5">
+</p>
+
+The object detection model is trained with the [Faster R-CNN model architecture](link), which includes pretrained weight on COCO dataset.
+
+
+## 'Run' alternatives
+
+### Notebooks
+
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](link)
+
+### Heroku
+
+## Future plans
+- [ ] Change the model to a more efficient YOLOv5 (Pytorch)
+- [ ] Improve UX
+- [ ] Improve the efficiency, making it executable on web app and mobile services.
 
 <br>
 <br>
