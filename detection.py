@@ -1,5 +1,5 @@
 import time
-import cv2
+import cv2_tools  as cv2 
 import numpy as np
 import tensorflow.compat.v1 as tf
 import os
