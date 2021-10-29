@@ -21,4 +21,4 @@ One type of field goal is called a slam dunk. This occurs when a player jumps ne
 
 <p align=center>
     <img src="../static/imgs/lebron_james_carrer_fga.png" width="558" height="560.5">
-</p>
+</p> 
